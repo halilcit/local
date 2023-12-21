@@ -1,2 +1,1 @@
-d
-=
+printf("Hello World!")
